@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Ask For Approval">bae0a1120b10030085c083eb37673a92</action_type>
+        <action_type_parent/>
+        <comment>Get approval from Requested for's Manager</comment>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="NeedIt Fulfillment">b4e80be91b21330097f1986cbc4bcbf1</flow>
+        <order>2</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>pchartoi</sys_created_by>
+        <sys_created_on>2019-05-21 12:32:05</sys_created_on>
+        <sys_id>c7306fa91b61330097f1986cbc4bcbf6</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_action_instance_c7306fa91b61330097f1986cbc4bcbf6</sys_update_name>
+        <sys_updated_by>pchartoi</sys_updated_by>
+        <sys_updated_on>2019-05-21 15:03:53</sys_updated_on>
+        <ui_id>41f31108-056f-405c-9e9f-0e91a2e6e944</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=c7306fa91b61330097f1986cbc4bcbf6"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>c7306fa91b61330097f1986cbc4bcbf6</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>pchartoi</sys_created_by>
+        <sys_created_on>2019-05-21 12:32:05</sys_created_on>
+        <sys_id>0f306fa91b61330097f1986cbc4bcbfd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>pchartoi</sys_updated_by>
+        <sys_updated_on>2019-05-21 12:32:05</sys_updated_on>
+        <value>approval_history</value>
+        <variable display_value="">22d2a9920b10030085c083eb37673ac3</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>c7306fa91b61330097f1986cbc4bcbf6</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>pchartoi</sys_created_by>
+        <sys_created_on>2019-05-21 12:32:05</sys_created_on>
+        <sys_id>47306fa91b61330097f1986cbc4bcbfd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>pchartoi</sys_updated_by>
+        <sys_updated_on>2019-05-21 12:32:05</sys_updated_on>
+        <value>approval</value>
+        <variable display_value="">1ed2a9920b10030085c083eb37673ab7</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>c7306fa91b61330097f1986cbc4bcbf6</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>pchartoi</sys_created_by>
+        <sys_created_on>2019-05-21 12:32:05</sys_created_on>
+        <sys_id>83306fa91b61330097f1986cbc4bcbfe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>pchartoi</sys_updated_by>
+        <sys_updated_on>2019-05-21 12:32:05</sys_updated_on>
+        <value>x_58872_needit_needit</value>
+        <variable display_value="">d2d2a9920b10030085c083eb37673aa0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>c7306fa91b61330097f1986cbc4bcbf6</document_key>
+        <order>5</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>pchartoi</sys_created_by>
+        <sys_created_on>2019-05-21 12:32:05</sys_created_on>
+        <sys_id>cf306fa91b61330097f1986cbc4bcbfd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>pchartoi</sys_updated_by>
+        <sys_updated_on>2019-05-21 12:32:05</sys_updated_on>
+        <value/>
+        <variable display_value="">26d2a9920b10030085c083eb37673ad9</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=c7306fa91b61330097f1986cbc4bcbf6"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>approval_conditions</field>
+        <id>c7306fa91b61330097f1986cbc4bcbf6</id>
+        <sys_created_by>pchartoi</sys_created_by>
+        <sys_created_on>2019-05-21 12:32:05</sys_created_on>
+        <sys_id>03306fa91b61330097f1986cbc4bcbfd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>pchartoi</sys_updated_by>
+        <sys_updated_on>2019-05-21 12:32:05</sys_updated_on>
+        <table>var__m_sys_hub_action_input_bae0a1120b10030085c083eb37673a92</table>
+        <value>ApprovesAnyU[{{Created_1.current.u_requested_for.manager}}]OrRejectsAnyU[{{Created_1.current.u_requested_for.manager}}]</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>approval_field</field>
+        <id>c7306fa91b61330097f1986cbc4bcbf6</id>
+        <sys_created_by>pchartoi</sys_created_by>
+        <sys_created_on>2019-05-21 12:32:05</sys_created_on>
+        <sys_id>03306fa91b61330097f1986cbc4bcbfc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>pchartoi</sys_updated_by>
+        <sys_updated_on>2019-05-21 12:32:05</sys_updated_on>
+        <table>var__m_sys_hub_action_input_bae0a1120b10030085c083eb37673a92</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>due_date</field>
+        <id>c7306fa91b61330097f1986cbc4bcbf6</id>
+        <sys_created_by>pchartoi</sys_created_by>
+        <sys_created_on>2019-05-21 12:32:05</sys_created_on>
+        <sys_id>4f306fa91b61330097f1986cbc4bcbfc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>pchartoi</sys_updated_by>
+        <sys_updated_on>2019-05-21 12:32:05</sys_updated_on>
+        <table>var__m_sys_hub_action_input_bae0a1120b10030085c083eb37673a92</table>
+        <value>{"action":"none","date_type":"actual","date":"{{}}","duration":1,"duration_type":"days","schedule":"","schedule_label":""}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>journal_field</field>
+        <id>c7306fa91b61330097f1986cbc4bcbf6</id>
+        <sys_created_by>pchartoi</sys_created_by>
+        <sys_created_on>2019-05-21 12:32:05</sys_created_on>
+        <sys_id>c7306fa91b61330097f1986cbc4bcbfc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>pchartoi</sys_updated_by>
+        <sys_updated_on>2019-05-21 12:32:05</sys_updated_on>
+        <table>var__m_sys_hub_action_input_bae0a1120b10030085c083eb37673a92</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>c7306fa91b61330097f1986cbc4bcbf6</id>
+        <sys_created_by>pchartoi</sys_created_by>
+        <sys_created_on>2019-05-21 12:32:05</sys_created_on>
+        <sys_id>8b306fa91b61330097f1986cbc4bcbfc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>pchartoi</sys_updated_by>
+        <sys_updated_on>2019-05-21 12:32:05</sys_updated_on>
+        <table>var__m_sys_hub_action_input_bae0a1120b10030085c083eb37673a92</table>
+        <value>{{Created_1.current}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table</field>
+        <id>c7306fa91b61330097f1986cbc4bcbf6</id>
+        <sys_created_by>pchartoi</sys_created_by>
+        <sys_created_on>2019-05-21 12:32:05</sys_created_on>
+        <sys_id>c3306fa91b61330097f1986cbc4bcbfd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>pchartoi</sys_updated_by>
+        <sys_updated_on>2019-05-21 12:32:05</sys_updated_on>
+        <table>var__m_sys_hub_action_input_bae0a1120b10030085c083eb37673a92</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>

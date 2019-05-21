@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">46bcab611b21330097f1986cbc4bcb64</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <flow display_value="NeedIt Fulfillment">b4e80be91b21330097f1986cbc4bcbf1</flow>
+        <inputs/>
+        <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
+        <order>3</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>pchartoi</sys_created_by>
+        <sys_created_on>2019-05-21 13:26:37</sys_created_on>
+        <sys_id>cebcab611b21330097f1986cbc4bcb65</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_cebcab611b21330097f1986cbc4bcb65</sys_update_name>
+        <sys_updated_by>pchartoi</sys_updated_by>
+        <sys_updated_on>2019-05-21 15:03:54</sys_updated_on>
+        <ui_id>839c1e72-94cc-4df8-b540-91cf571cc56f</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=cebcab611b21330097f1986cbc4bcb65"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>cebcab611b21330097f1986cbc4bcb65</document_key>
+        <order>20</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>pchartoi</sys_created_by>
+        <sys_created_on>2019-05-21 13:26:37</sys_created_on>
+        <sys_id>0abcab611b21330097f1986cbc4bcb6a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>pchartoi</sys_updated_by>
+        <sys_updated_on>2019-05-21 13:26:37</sys_updated_on>
+        <value>{{41f31108-056f-405c-9e9f-0e91a2e6e944.approval_state}}=approved</value>
+        <variable display_value="">9a5f5105c32632002841b63b12d3ae46</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>cebcab611b21330097f1986cbc4bcb65</document_key>
+        <order>10</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>pchartoi</sys_created_by>
+        <sys_created_on>2019-05-21 13:26:37</sys_created_on>
+        <sys_id>cebcab611b21330097f1986cbc4bcb6a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>pchartoi</sys_updated_by>
+        <sys_updated_on>2019-05-21 13:26:37</sys_updated_on>
+        <value>Request approved</value>
+        <variable display_value="">f0af19c1c32632002841b63b12d3aea3</variable>
+    </sys_variable_value>
+</record_update>
